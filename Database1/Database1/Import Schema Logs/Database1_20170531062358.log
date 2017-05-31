@@ -1,0 +1,11 @@
+5/31/2017 1:23:58 AM	This log contains information about the import schema operation into project 'Database1' on computer 'PANKAJCOMPUTER' by user 'Pankaj'.
+5/31/2017 1:23:59 AM	Deserializing model
+5/31/2017 1:23:59 AM	Resolving model
+5/31/2017 1:23:59 AM	Visiting imported model for types
+5/31/2017 1:23:59 AM	Scanning project for duplicate elements
+5/31/2017 1:23:59 AM	Finished duplicate element processing
+5/31/2017 1:23:59 AM	Processing extra files
+5/31/2017 1:23:59 AM	For more information about using Pre-Deployment and Post-Deployment Scripts, see: http://go.microsoft.com/fwlink/?LinkID=238792&clcid=0x409
+5/31/2017 1:23:59 AM	Finished importing Data-tier Application file.
+5/31/2017 1:23:59 AM	A summary of the import was saved to the following location: C:\Users\Pankaj\Desktop\test\Database1\Database1\Import Schema Logs\Database1_20170531062358.log
+5/31/2017 1:23:59 AM	Click Finish to continue...
